@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cloudinary-video-player": "^1.9.1"
+  }
+}
